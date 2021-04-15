@@ -5,7 +5,7 @@ const Intro = () => {
         < section id="colorlib-hero" className="js-fullheight" data-section="home" >
             <div className="flexslider js-fullheight">
                 <ul className="slides">
-                    <li style={{ backgroundImage: 'url(portfolio/images/img_bg_1.jpg)' }}>
+                    <li style={{ backgroundImage: 'url(images/img_bg_1.jpg)' }}>
                         <div className="overlay"></div>
                         <div className="container-fluid">
                             <div className="row">
@@ -14,14 +14,14 @@ const Intro = () => {
                                         <div className="desc">
                                             <h1>Hi! <br />I'm Sulochana</h1>
                                             <h2>From United Kingdom</h2>
-                                            <p><a className="btn btn-primary btn-learn" href="portfolio/cv/SoftwareDeveloper-CV-Sulo.pdf" target="_blank">Here's my CV<i className="icon-download4"></i></a></p>
+                                            <p><a className="btn btn-primary btn-learn" href="cv/SoftwareDeveloper-CV-Sulo.pdf" target="_blank">Here's my CV<i className="icon-download4"></i></a></p>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </li>
-                    <li style={{ backgroundImage: 'url(portfolio/images/img_bg_2.jpg)' }}>
+                    <li style={{ backgroundImage: 'url(images/img_bg_2.jpg)' }}>
                         <div className="overlay"></div>
                         <div className="container-fluid">
                             <div className="row">

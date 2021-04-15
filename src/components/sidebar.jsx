@@ -8,7 +8,7 @@ const Sidebar = () => {
                 <a href="#navbar" className="js-colorlib-nav-toggle colorlib-nav-toggle" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"><i></i></a>
                 <aside id="colorlib-aside" className="border js-fullheight">{/* removed , aside by default have a complementary role*/}
                     <div className="text-center">
-                        <div className="author-img" style={{ backgroundImage: 'url(portfolio/images/about.jpg)' }}></div>
+                        <div className="author-img" style={{ backgroundImage: 'url(images/about.jpg)' }}></div>
                         <h1 id="colorlib-logo" style={{ textAlign: 'center' }}>Sulochana Bhujel</h1>
                         <span className="position" style={{ color: '#2c98f0' }}>Software Developer</span>
                     </div>
