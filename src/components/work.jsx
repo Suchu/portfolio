@@ -17,7 +17,7 @@ const Work = () => {
                 </div>
                 <div className="row">
                     <div className="col-md-6 animate-box" data-animate-effect="fadeInLeft" id="website">
-                        <div className="project" style={{ backgroundImage: 'url(portfolio/images/img-1.jpg)' }}>
+                        <div className="project" style={{ backgroundImage: 'url(images/img-1.jpg)' }}>
                             <div className="desc">
                                 <div className="con">
                                     <h3><a href="https://www.bupa.co.uk/" target="_blank" without rel="noreferrer">Bupa Health</a></h3>
@@ -32,7 +32,7 @@ const Work = () => {
                         </div>
                     </div>
                     <div className="col-md-6 animate-box" data-animate-effect="fadeInRight" id="software">
-                        <div className="project" style={{ backgroundImage: 'url(portfolio/images/img-2.jpg)' }}>
+                        <div className="project" style={{ backgroundImage: 'url(images/img-2.jpg)' }}>
                             <div className="desc">
                                 <div className="con">
                                     <h3><a href="https://www.bpp.com/" target="_blank" without rel="noreferrer">BPP University</a></h3>
@@ -47,7 +47,7 @@ const Work = () => {
                         </div>
                     </div>
                     <div className="col-md-6 animate-box" data-animate-effect="fadeInTop">
-                        <div className="project" style={{ backgroundImage: 'url(portfolio/images/img-3.jpg)' }}>
+                        <div className="project" style={{ backgroundImage: 'url(images/img-3.jpg)' }}>
                             <div className="desc">
                                 <div className="con">
                                     <h3><a href="https://www.genesesolution.com/" target="_blank" without rel="noreferrer">Genese</a></h3>
@@ -62,7 +62,7 @@ const Work = () => {
                         </div>
                     </div>
                     <div className="col-md-6 animate-box" data-animate-effect="fadeInBottom" id="apps">
-                        <div className="project" style={{ backgroundImage: 'url(portfolio/images/img-4.jpg)' }}>
+                        <div className="project" style={{ backgroundImage: 'url(images/img-4.jpg)' }}>
                             <div className="desc">
                                 <div className="con">
                                     <h3><a href="#apps">Limeworx</a></h3>
@@ -77,7 +77,7 @@ const Work = () => {
                         </div>
                     </div>
                     <div className="col-md-6 animate-box" data-animate-effect="fadeInLeft">
-                        <div className="project" style={{ backgroundImage: 'url(portfolio/images/img-5.jpg)' }}>
+                        <div className="project" style={{ backgroundImage: 'url(images/img-5.jpg)' }}>
                             <div className="desc">
                                 <div className="con">
                                     <h3><a href="#website">Lawray Architects</a></h3>
@@ -92,7 +92,7 @@ const Work = () => {
                         </div>
                     </div>
                     <div className="col-md-6 animate-box" data-animate-effect="fadeInRight">
-                        <div className="project" style={{ backgroundImage: 'url(portfolio/images/img-6.jpg)' }}>
+                        <div className="project" style={{ backgroundImage: 'url(images/img-6.jpg)' }}>
                             <div className="desc">
                                 <div className="con">
                                     <h3><a href="work.html">Khabar Manch</a></h3>
