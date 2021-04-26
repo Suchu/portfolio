@@ -25,7 +25,7 @@ const Thoughts = () => {
                         <div className="row">
                             <div className="col-md-12 animate-box" data-animate-effect="fadeInLeft">
                                 <div className="hire" style={{ backgroundColor: '#AFEEEE' }}>
-                                    <h2>Excited <br />to return to tect</h2>
+                                    <h2>Excited <br />to return to tech</h2>
                                     <a href="#previous-work" className="btn-hire">My Previous Works</a>
                                 </div>
                             </div>
