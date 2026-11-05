@@ -17,7 +17,7 @@ const Education = () => {
                                 <div className="panel panel-default">
                                     <div className="panel-heading" role="tab" id="headingOne">
                                         <h4 className="panel-title">
-                                            <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">Bachelor's Degree of Software Engineering</a>
+                                            <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">Software Engineering</a>
                                         </h4>
                                     </div>
                                     <div id="collapseOne" className="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
