@@ -34,12 +34,12 @@ const Experience = () => {
                                     <div className="timeline-icon color-2">
                                         <i className="icon-pen2"></i>
                                     </div>
-                                    <div className="timeline-label">
+                                    {/* <div className="timeline-label">
                                         <h2>Full Stack Developer <span>2017-2018</span></h2>
                                         <p>Developed responsive web applications, themes and plugins. Identified and solved design and functionality
                                         issues of websites. Developed secured e-commerce websites.
                                         </p>
-                                    </div>
+                                    </div> */}
                                 </div>
                             </article>
 
