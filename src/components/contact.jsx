@@ -26,7 +26,7 @@ const Contacts = () => {
                                 <i className="icon-map"></i>
                             </div>
                             <div className="colorlib-text">
-                                <p>Aldershot, Hampshire, United Kingdom</p>
+                                <p> United Kingdom</p>
                             </div>
                         </div>
                         <div className="colorlib-feature colorlib-feature-sm animate-box" data-animate-effect="fadeInLeft">
@@ -34,7 +34,7 @@ const Contacts = () => {
                                 <i className="icon-phone"></i>
                             </div>
                             <div className="colorlib-text">
-                                <p><a href="tel://">+44 77316127</a></p>
+                                <p><a href="tel://"></a></p>
                             </div>
                         </div>
                     </div>
